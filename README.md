@@ -1,5 +1,6 @@
 # Codigo-Fuente-Angular
-Este es un proyecto básico basado en WebPack y TypeScript para comenzar proyecto desde cero
+Este es un proyecto básico basado en WebPack y TypeScript para comenzar proyecto desde cero.
+Viene en carpetya zip, debes descomprimir y extraer antes de instalar (npm install)
 
 ## Proyecto para reforzar TypeScript - ECMAScript 20XX
 
