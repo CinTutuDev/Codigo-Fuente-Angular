@@ -1,7 +1,7 @@
 # Codigo-Fuente-Angular
 Este es un proyecto básico basado en WebPack y TypeScript para comenzar proyecto desde cero
 
-# Proyecto para reforzar TypeScript - ECMAScript 20XX
+## Proyecto para reforzar TypeScript - ECMAScript 20XX
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
